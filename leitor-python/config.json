@@ -1,0 +1,5 @@
+{
+    "arduino_location": "/dev/ttyACM0",
+    "serial_port": 9600,
+    "server_url": "http://192.168.1.204/api-sist-distribuidos/api/data"
+}

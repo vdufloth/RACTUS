@@ -1,0 +1,27 @@
+{
+    "name": "secco2112/sist-distribuidos",
+    "type": "project",
+    "description": "API para projeto de sistemas distribuídos",
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3",
+        "aspera/xlsx-reader": "^0.7.4",
+        "fideloper/proxy": "^4.0",
+        "peppeocchi/php-cron-scheduler": "^2.4",
+        "illuminate/database": "^5.8",
+        "paquettg/php-html-parser": "*",
+        "guzzlehttp/guzzle": "^6.3",
+        "illuminate/routing": "^5.5",
+        "illuminate/events": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "autoload": {
+        "classmap": [
+            "libs",
+            "controllers",
+            "models"
+        ]
+    }
+}
