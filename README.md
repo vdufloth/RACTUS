@@ -1,6 +1,16 @@
 # RACTUS
 Rastreador de Condições de Temperatura e Umidade de Servidores
 
+Imagens do Front:
+
+![dashboard](https://github.com/vdufloth/RACTUS/blob/master/docs/dashboard1.png)
+
+![dashboard2](https://github.com/vdufloth/RACTUS/blob/master/docs/dashboard2.png)
+
+![table-list](https://github.com/vdufloth/RACTUS/blob/master/docs/tablelist.png)
+
+![diagrama](https://github.com/vdufloth/RACTUS/blob/master/docs/diagrama.png)
+
 1. Arduino.
 * Utilizamos o sensor DHT22 para ler a temperatura e umidade em um intervalo de tempo pré-definido;
 * Realizamos o registro na porta serial da máquina (servidor) conectada a ele.
